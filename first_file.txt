@@ -1,3 +1,4 @@
 안뇽하세요 헤헤
 second text	
 git fetch
+git full 실험중...
